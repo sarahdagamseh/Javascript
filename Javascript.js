@@ -3,7 +3,7 @@ var last_name = "Dagamseh";
 var full_name = "Sarah Dagamseh";
 console.log(full_name);
 
-var Major= prompt ("Please write yes if are a programmer")
+var Major= prompt ("Please write yes if you are a programmer")
 
 if(Major == "yes")
 {
