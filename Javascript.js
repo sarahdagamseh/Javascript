@@ -3,9 +3,9 @@ var last_name = "Dagamseh";
 var full_name = "Sarah Dagamseh";
 console.log(full_name);
 
-var Major= prompt ("please enter your major")
+var Major= prompt ("Please write yes if are a programmer")
 
-if(Major == "programming")
+if(Major == "yes")
 {
     alert ("welcome programmer");
     var Grade = prompt("please enter your grade");
